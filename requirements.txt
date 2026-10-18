@@ -1,0 +1,5 @@
+faster-whisper
+av
+numpy
+scipy
+noisereduce
